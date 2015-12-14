@@ -1,3 +1,9 @@
+keyspan-firmware (2015.12.15.1) unstable; urgency=low
+
+  * Correct error in debian/copyright file.
+
+ -- T. Joseph Carter <tjcarter@blocksfree.com>  Mon, 14 Dec 2015 01:33:22 -0800
+
 keyspan-firmware (2015.11.24.1) unstable; urgency=low
 
   * Initial Release.
