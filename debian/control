@@ -3,7 +3,7 @@ Section: non-free/kernel
 Priority: extra
 Maintainer: T. Joseph Carter <tjcarter@blocksfree.com>
 Build-Depends: debhelper (>= 8.0.0)
-Standards-Version: 3.9.3
+Standards-Version: 3.9.6
 Homepage: http://git.kernel.org/cgit/linux/kernel/git/firmware/linux-firmware.git
 Vcs-Git: http://github.com/RasppleII/keyspan-firmware.git
 Vcs-Browser: http://github.com/RasppleII/keyspan-firmware
