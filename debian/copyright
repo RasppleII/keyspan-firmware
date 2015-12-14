@@ -6,7 +6,7 @@ Files: keyspan/*
 Copyright: 1999-2001 Keyspan, A division of InnoSys Incorporated ("Keyspan")
 License: keyspan
 
-Files: debian/*
+Files: *
 Copyright: 2015 T. Joseph Carter <tjcarter@blocksfree.com>
 License: CC0
 
